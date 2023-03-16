@@ -9,5 +9,10 @@ h1{
   background-color: cadetblue;
   width: 80%;
   margin: 0 auto;
+}
 
+.intro {
+  width: 80%;
+  font-size: 20px;
+  margin: 0 auto;
 }
